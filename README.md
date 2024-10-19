@@ -22,12 +22,3 @@ As a Data Analyst for Toman Bike Share, the objective is to assess the feasibili
 
 This structured approach will enable Toman Bike Share to make data-driven decisions regarding their pricing strategy for the upcoming year.
 
-Citations:
-[1] https://blog.bismart.com/en/power-bi-dashboard-design-best-practices
-[2] https://www.datacamp.com/blog/9-power-bi-dashboard-examples
-[3] https://learn.microsoft.com/en-us/power-bi/create-reports/service-dashboards
-[4] https://blog.coupler.io/power-bi-dashboard-examples/
-[5] https://learn.microsoft.com/en-us/power-bi/create-reports/service-dashboards-design-tips
-[6] https://github.com/MicrosoftDocs/power-pages-docs/blob/main/power-pages-docs/admin/set-up-power-bi-integration.md
-[7] https://www.integrate.io/blog/best-power-bi-dashboards/
-[8] https://www.reddit.com/r/PowerBI/comments/1bv2dla/seeking_advice_establishing_a_unified_power_bi/
